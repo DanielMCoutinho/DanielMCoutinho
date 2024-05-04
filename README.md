@@ -55,4 +55,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DanielMCoutinho}/count.svg" /></p> 
 <br></div>
 
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2IxNnJxd3NrZDczMzJtYWNtNmVpeXQ0dnZ0enZ6eHB1azZ2MmgzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6sUCb6laWgfxnrrG4N/giphy.gif"  />
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
