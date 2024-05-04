@@ -2,15 +2,16 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+Rede,+Eu+Sou+o+Daniel+Marques+Coutinho;Sou+de+São+Paulo,+SP;E+sou+Estudante+Analise+e+Desenvolvimento+de+Sistemas;+Na+UNINOVE;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-
+<p align="center">
+  Olá! Sou um profissional apaixonado por tecnologia e desenvolvimento de software, atualmente cursando Análise de Sistemas de Sistemas na UNINOVE (3º Semestre) e Especializando em Desenvolvimento Web Full Stack pelo Instituto PROA. </p>
+  
+ <p align="center"> Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+  </p>
+  
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielMCoutinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Marques Coutinho github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMCoutinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-<p align="center">
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-  </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielMCoutinho&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
